@@ -1,1 +1,56 @@
+<style>
 
+input[type=text], input[type=date],
+input[type=number],
+select,
+textarea
+{
+width:280px;
+float:right;
+padding:2px 0px 2px 4px;
+height:24px;
+border-radius:5px;
+border:solid #000;
+} 
+
+.header h1{
+width:480px;
+background-color:#525252;
+color:#FFF;
+margin:0;
+padding:12px;
+
+}
+
+form{
+width:480px;
+padding:12px;
+background-color:#BBB;
+
+}
+
+label{
+width:120px;
+
+}
+
+div{
+padding:10px 0px;
+}
+
+input[type="submit"]{
+background-color:#525252;
+color:#FFF;
+font-weight:bold;
+display:block;
+padding:3px 15px;
+margin-left:400px;
+
+}
+
+input[type="submit"]:hover {
+background-color:#808080;
+color:#c3c3c3;
+}
+
+</style>
