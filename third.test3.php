@@ -185,4 +185,9 @@ class Car extends Vehicle {
 }
 $car=new Car($velocity="velocity:100",$color="color:black",$licensePlate="licensePlate:あ12-34");
 $car-> showProperties($velocity,$color,$licensePlate);
+
+//"作成時間：45分"
+
 ?>
+
+
