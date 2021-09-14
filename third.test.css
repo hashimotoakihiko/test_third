@@ -45,7 +45,8 @@ font-weight:bold;
 display:block;
 padding:3px 15px;
 margin-left:400px;
-
+border-radius:2px;
+border:solid #000;
 }
 
 input[type="submit"]:hover {
