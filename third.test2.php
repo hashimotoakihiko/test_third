@@ -93,5 +93,8 @@ function outputTextSpecifiedCount ($specifiedCount,$text2) {
     }
 }
 outputTextSpecifiedCount($number4,$text2);
+
+//"作成時間：30分"
+
 ?>
 
